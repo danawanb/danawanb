@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danawanb
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning golang
 - 💞️ I’m not looking for collaboration
 - 📫 How to reach me danawanbimantoro23@gmail.com
 
